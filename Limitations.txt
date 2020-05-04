@@ -1,0 +1,15 @@
+folders with different names (i might have fixed this, don't remember)
+
+move a lot to preload?
+
+change all imports of material-ui into one import (for faster loading)
+
+move + button to the right maybe
+
+organize components folder?
+
+rmember volume settings
+
+ui ugly
+
+can someone write a clean function for my gulp process theat clear the public folder contents?
