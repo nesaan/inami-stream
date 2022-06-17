@@ -12,7 +12,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@material-ui/icons": "^4.9.1",
-    "electron": "^8.2.3",
+    "electron": "^15.5.5",
     "nedb": "^1.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
